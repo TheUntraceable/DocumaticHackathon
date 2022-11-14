@@ -3,7 +3,7 @@
   "dependencies": {
     "axios": "^0.27.2"
   },
-  "name": "axioshelper",
+  "name": "documatichackathon-theuntraceable",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
