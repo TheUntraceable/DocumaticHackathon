@@ -2,5 +2,22 @@
   "type": "module",
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "name": "axioshelper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheUntraceable/DocumaticHackathon.git"
+  },
+  "author": "TheUntraceable",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheUntraceable/DocumaticHackathon/issues"
+  },
+  "homepage": "https://github.com/TheUntraceable/DocumaticHackathon#readme",
+  "description": "Documatic is a search engine for your codebase; Ask documatic a question and find relevant code snippets and insights in seconds.\nhttps://www.documatic.com/\nDocumatic acts as a search engine for your codebase; once you describe what you're looking for, Documatic pulls up related code or documentation making it easier to find what you're looking for in seconds!\nNot sitting next to each other? No problem. Ask Documatic questions of your codebase to learn and understand your code in seconds. Documatic is the team member you wish you had\nOur Visual studio Code extension: https://marketplace.visualstudio.com/items?itemName=Documatic.documatic\nhttps://cdn.discordapp.com/attachments/926110059782615071/1037404343470661713/Documatic_sh6hrz.gif"
 }
